@@ -1,5 +1,4 @@
 import requests
-import certifi
 
 def fetch_random_user_freeapi():
     url = "https://randomuser.me/api/"
